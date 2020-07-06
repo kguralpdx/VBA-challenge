@@ -4,7 +4,7 @@
 
 * [Basic Assignment](Resources/The_VBA_of_Wall_Street_Basic.vbs) - just the basic assignment
 * [Basic Assignment and Challenge 1](Resources/The_VBA_of_Wall_Street_Basic_and_Challenge_1.vbs) - the basic assignment and the 1st challenge
-* [Basic Assignment with Both Challenges](Resources/The_VBA_of_Wall_Street_Everything.vbs) - the basic assignment and both challenges. `Use this to run the entire assignment`.
+* [Basic Assignment with Both Challenges](Resources/The_VBA_of_Wall_Street_Everything.vbs) - the basic assignment and both challenges. **Use this to run the entire assignment.**
 
 ### Screenshot Files
 
